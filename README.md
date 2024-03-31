@@ -1,4 +1,4 @@
-# Mental Health Support Platform for Women
+# NUTURE HER - Mental Health Support Platform for Women
 
 ## Project Overview
 
