@@ -45,6 +45,9 @@ This project aims to create a digital platform offering tailored mental health r
 
 - **3D Visualization:**
   - Three.js for creating interactive and visually engaging elements.
+ 
+- **Data Analytics**
+  - To create dashboards using user data to create analytics dashboard for the user using POWER BI.
 
 - **Chat and Messaging:**
   - Firebase for real-time chatting with like-minded individuals.
